@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T06:21:32.576Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36 Edg/89.0.774.45" version="13.7.3" etag="3kjzgrfkuEx8yScb6Fvz" type="github"><diagram id="JaYlMbmqoqH_gGNQuOks">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-10T06:33:14.110Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36 Edg/89.0.774.45" etag="oRz7YdepVgTPMAV18RX-" version="13.7.3" type="github">
+  <diagram id="JaYlMbmqoqH_gGNQuOks" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d-qdAwPL0Z_1M7IvlQcQ-1" value="闭包" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="d-qdAwPL0Z_1M7IvlQcQ-2" value="函数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d-qdAwPL0Z_1M7IvlQcQ-3" value="Record 记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="100" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d-qdAwPL0Z_1M7IvlQcQ-4" value="维基中一般编程语言闭包结构" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="120" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d-qdAwPL0Z_1M7IvlQcQ-5" value="ES/JS的结构" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="120" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d-qdAwPL0Z_1M7IvlQcQ-6" value="函数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="460" y="150" width="270" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
